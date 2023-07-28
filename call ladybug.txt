@@ -1,9 +1,9 @@
 {
-	"version": "said v2",
+	"version": "LADY CALL",
 
 
 
-"unityid": "4983033",
+"unityid": "5363532",
 "unitybanner": "Banner_Android",
 "unityinter": "Interstitial_Android",
 "unityreward": "Rewarded_Android",
@@ -11,6 +11,6 @@
 "ironsdk": "114b18dc5",
 
 "ads switch details  ": "1:iron 2:admob 3:unity 0:auto",
-"adswitch": "2",
+"adswitch": "3",
 
 "adscounter": "1"
